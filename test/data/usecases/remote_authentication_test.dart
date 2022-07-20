@@ -112,7 +112,7 @@ void main() {
             body: anyNamed('body')))
         .thenAnswer((_) async => {'invalid_key': 'invalid_value'});
 
-    final future = await sut.auth(params);
+    final future = sut.auth(params);
 
     expect(future, throwsA(DomainError.unexpected));
   });
