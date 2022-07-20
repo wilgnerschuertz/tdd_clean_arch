@@ -1,6 +1,6 @@
 # TDD, Clean Architeture, SOLID and Design Patterns.
 
-[![Wakatime](https://wakatime.com/badge/user/6ee6eb5e-5e1e-4472-8f69-a5496b25fd3c/project/b4015e42-11ec-4258-b296-f6ac5ca7cbcb.svg)](https://wakatime.com/badge/user/6ee6eb5e-5e1e-4472-8f69-a5496b25fd3c/project/b4015e42-11ec-4258-b296-f6ac5ca7cbcb)
+<a href="https://wakatime.com/badge/user/6ee6eb5e-5e1e-4472-8f69-a5496b25fd3c/project/b4015e42-11ec-4258-b296-f6ac5ca7cbcb"><img src="https://wakatime.com/badge/user/6ee6eb5e-5e1e-4472-8f69-a5496b25fd3c/project/b4015e42-11ec-4258-b296-f6ac5ca7cbcb.svg" alt="wakatime"></a>
 
 Flutter knowledge consolidation
 
