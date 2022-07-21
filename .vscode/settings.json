@@ -2,12 +2,12 @@
     "workbench.colorTheme": "Dracula",
     "explorer.compactFolders": false,
     "editor.tabSize": 2,
-    "editor.fontSize": 16,
+    "editor.fontSize": 12,
     "editor.cursorStyle": "line-thin",
     "editor.renderWhitespace": "boundary",
     "editor.minimap.enabled": false,
-    "terminal.integrated.fontSize": 13,
-    "window.zoomLevel": -1,
+    "terminal.integrated.fontSize": 8,
+    "window.zoomLevel": 1,
         "dart.flutterSdkPath": ".fvm/flutter_sdk",
         "search.exclude": {
           "**/.fvm": true
