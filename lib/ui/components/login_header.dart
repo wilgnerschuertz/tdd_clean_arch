@@ -5,7 +5,7 @@ class LoginHeader extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       height: 240,
-      margin: EdgeInsets.only(top: 50, bottom: 32),
+      margin: EdgeInsets.only(bottom: 32),
       decoration: BoxDecoration(
         gradient: LinearGradient(
           begin: Alignment.topRight,
@@ -29,13 +29,11 @@ class LoginHeader extends StatelessWidget {
           ),
         ),
       ),
-      child: Text('Image'),
+      child: Text(''),
       //? Início Image
-
       //     Image(
       //   image: AssetImage('lib/ui/assets/logo2.png'),
       // ),
-
       //? Final Image
     );
   }
