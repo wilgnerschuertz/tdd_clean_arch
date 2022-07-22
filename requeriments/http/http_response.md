@@ -12,7 +12,7 @@
 1. ✅ Bad Request - 400
 2. ✅ Unauthorized - 401
 3. ✅ Forbidden - 403
-4. Not Found - 404
+4. ✅ Not Found - 404
 5. ✅ Internal Server Error - 500
 
 > ## EXCEÇÃO - STATUS CODE DIFERENTE DOS CITADOS ACIMA
@@ -22,4 +22,4 @@
 1. Internal Server Error - 500
 
 > ## EXCEÇÃO - VERBO HTTP INVÁLIDO
-1. Internal Server Error - 500
+1. ✅ Internal Server Error - 500
