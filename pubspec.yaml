@@ -21,5 +21,6 @@ dev_dependencies:
   faker: 1.3.0
 
 flutter:
-
   uses-material-design: true
+  assets:
+    - lib/ui/assets/
