@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-import '../components/components.dart';
-
 class LoginPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -10,10 +8,10 @@ class LoginPage extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
-            LoginHeader(),
-            HeadLine1(
-              text: 'login',
-            ),
+            // LoginHeader(),
+            // HeadLine1(
+            //   text: 'login',
+            // ),
             Padding(
               padding: const EdgeInsets.all(32),
               child: Form(
@@ -42,7 +40,7 @@ class LoginPage extends StatelessWidget {
                       ),
                     ),
                     RaisedButton(
-                      onPressed: () {},
+                      onPressed: null,
                       child: Text(
                         'Entrar'.toUpperCase(),
                       ),

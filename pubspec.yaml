@@ -15,6 +15,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_launcher_icons: 0.8.1
 
   test: 1.15.0
   mockito: 3.0.2
@@ -24,3 +25,11 @@ flutter:
   uses-material-design: true
   assets:
     - lib/ui/assets/
+
+flutter_icons:
+  ios: true
+  android: true
+  image_path_android: lib/ui/assets/icon/logoicon.png
+  image_path_ios: lib/ui/assets/icon/logoicon.png
+  adaptative_icon_foreground: lib/ui/assets/icon/logoicon.png
+  adaptative_icon_background: lib/ui/assets/icon/logoicon.png
