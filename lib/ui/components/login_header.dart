@@ -29,11 +29,11 @@ class LoginHeader extends StatelessWidget {
           ),
         ),
       ),
-      child: Text(''),
-      //? Início Image
-      //     Image(
-      //   image: AssetImage('lib/ui/assets/logo2.png'),
-      // ),
+      child:
+          //? Início Image
+          Image(
+        image: AssetImage('lib/ui/assets/logo.png'),
+      ),
       //? Final Image
     );
   }

@@ -29,7 +29,7 @@ flutter:
 flutter_icons:
   ios: true
   android: true
-  image_path_android: lib/ui/assets/icon/logoicon.png
-  image_path_ios: lib/ui/assets/icon/logoicon.png
-  adaptative_icon_foreground: lib/ui/assets/icon/logoicon.png
-  adaptative_icon_background: lib/ui/assets/icon/logoicon.png
+  image_path_android: lib/ui/assets/icon/android.png
+  image_path_ios: lib/ui/assets/icon/ios.png
+  adaptative_icon_foreground: lib/ui/assets/icon/foreground.png
+  adaptative_icon_background: lib/ui/assets/icon/background.pngs
