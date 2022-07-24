@@ -6,7 +6,7 @@
 2.  [X] O Botão de fazer login deve começar desabilitado
 3.  [] Após digitar algo em um campo, a mensagem de erro só deve sumir se o campo for válido
 4.  [X] Validar e-mail quando o usuário digitar no campo
-5.  [] Mostrar mensagem de erro se o e-mail for inválido
+5.  [X] Mostrar mensagem de erro se o e-mail for inválido
 6.  [] Remover mensagem de erro se o e-mail for válido
 7.  [X] Validar senha quando o usuário digitar no campo
 8.  [] Mostrar mensagem de erro se a senha for inválida
