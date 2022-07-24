@@ -10,7 +10,7 @@
 6.  [X] Remover mensagem de erro se o e-mail for válido
 7.  [X] Validar senha quando o usuário digitar no campo
 8.  [X] Mostrar mensagem de erro se a senha for inválida
-9.  [] Remover mensagem de erro se a senha for válida
+9.  [X] Remover mensagem de erro se a senha for válida
 10. [] Habilitar botão de login se todos os campos forem válidos
 11. [] Desabilitar o botão de fazer login se algum campo for inválido
 12. [] Exibir loading no início da ação de login
