@@ -6,7 +6,7 @@
     "editor.cursorStyle": "block",
     "editor.renderWhitespace": "boundary",
     "editor.minimap.enabled": false,
-    "terminal.integrated.fontSize": 10,
+    "terminal.integrated.fontSize": 14,
     "window.zoomLevel": -1,
         "dart.flutterSdkPath": ".fvm/flutter_sdk",
         "search.exclude": {
