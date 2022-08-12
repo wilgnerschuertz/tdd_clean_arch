@@ -2,7 +2,7 @@
     "workbench.colorTheme": "Dracula",
     "explorer.compactFolders": false,
     "editor.tabSize": 2,
-    "editor.fontSize": 16,
+    "editor.fontSize": 18,
     "editor.cursorStyle": "block",
     "editor.renderWhitespace": "boundary",
     "editor.minimap.enabled": false,
